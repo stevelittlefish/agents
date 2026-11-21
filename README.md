@@ -26,7 +26,7 @@ pi, Antigravity and opencode.
 ## Install
 
 ```sh
-git clone https://github.com/stevelittlefish/agents ~/git/agents
+git clone git@github.com:stevelittlefish/agents.git ~/git/agents
 cd ~/git/agents
 ./install.sh
 ```
